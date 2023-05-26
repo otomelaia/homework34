@@ -7,11 +7,8 @@ body {
 .box1 , .box2 , .box3 {
     height: 319px;
     background-color: #209F62;
-    margin-top: 84px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-top: 27px;
 }
 p {
     color: white;
