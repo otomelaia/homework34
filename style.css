@@ -1,0 +1,21 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.box1 , .box2 , .box3 {
+    height: 319px;
+    background-color: #209F62;
+    margin-top: 84px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 27px;
+}
+p {
+    color: white;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
