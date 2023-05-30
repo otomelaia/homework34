@@ -7,8 +7,6 @@ body {
 .box1 , .box2 , .box3 {
     height: 319px;
     background-color: #209F62;
-    display: flex;
-    justify-content: center;
 }
 p {
     color: white;
